@@ -1,0 +1,6 @@
+secret.key
+encrypted_chunks/
+restored_*
+.streamlit/secrets.toml
+*.csv
+__pycache__/
